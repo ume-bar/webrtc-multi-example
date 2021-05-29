@@ -4,7 +4,6 @@
   "description": "WebRTC multi",
   "dependencies": {
     "express": "^4.17.1",
-    "http-hotreload": "^1.0.4",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
