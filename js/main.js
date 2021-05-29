@@ -88,6 +88,7 @@ socket.on('bye', function(socketId) {
 
 const mediaStreamConstraints = {
   video: true,
+  audio: true,
 }
 
 const localVideo = document.getElementById('localVideo')
