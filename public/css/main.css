@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif;
+  background-image: url("/images/mountain.webp");
+  color: floralwhite;
 }
 
 video {
